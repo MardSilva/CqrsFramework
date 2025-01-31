@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>CqrsFramework</id>
+    <version>1.0.0</version>
+    <authors>Eymard Silva</authors>
+    <description>A simple Framework for CQRS with .NET</description>
+    <tags>CQRS, .NET, Framework</tags>
+  </metadata>
+</package>
